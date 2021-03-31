@@ -1,7 +1,9 @@
-*bin/
-*obj/
-
-bin/
-obj/
-
 .vs/
+bin/debug
+obj/debug
+
+*obj/
+*bin/
+
+.vscode/
+
