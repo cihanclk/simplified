@@ -1,9 +1,10 @@
-.vs/
-bin/debug
-obj/debug
+bin/
+obj/
 
-*obj/
 *bin/
+*obj/
 
-.vscode/
+bin/
+obj/
 
+.vs/
